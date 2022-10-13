@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mian1930
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate and help others
+- 📫 How to reach me "mianazan3@gmail.com"
 
 <!---
 Mian1930/Mian1930 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
