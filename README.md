@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mian1930
+- 👋 Hi, I’m Azan
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate and help others
 - 📫 How to reach me "mianazan3@gmail.com"
 
